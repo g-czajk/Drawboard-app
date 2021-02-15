@@ -1,3 +1,4 @@
 ## Aplikacja "Drawboard"
 
-Aplikacja stworzona w Vue.js według własnego pomysłu.
+Aplikacja napisana w Vue.js według własnego pomysłu. Wykorzystuje m.in. HTML `<canvas>` dla rysowania i drag & drop na bazie CSS `position`.
+
