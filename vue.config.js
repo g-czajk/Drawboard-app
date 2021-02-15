@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/Drawboard-app/" : "/",
+    publicPath:
+        process.env.NODE_ENV === "production" ? "/Tactic-board-app/" : "/",
 };
