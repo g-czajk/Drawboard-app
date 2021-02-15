@@ -219,4 +219,16 @@ export default {
         transform: translateX(0);
     }
 }
+
+@media (max-width: 1600px) {
+    .panel {
+        left: 5%;
+    }
+}
+
+@media (max-width: 1400px) {
+    .panel {
+        left: 1%;
+    }
+}
 </style>
