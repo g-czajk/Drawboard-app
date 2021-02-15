@@ -1,13 +1,13 @@
 <template>
     <div class="panel">
         <div class="panel-category marker-options">
-            <p>Grubość markera:</p>
+            <p>Marker width:</p>
             <input type="range" class="marker" min="1" max="16" step="1"
             value:="8" v-model="markerWidth" @change="emitMarkerWidth" />
             <p class="marker-width">{{ markerWidth }} px</p>
         </div>
         <div class="panel-category color-options">
-            <p>Kolor markera:</p>
+            <p>Marker color:</p>
             <div class="colors-wrap">
                 <div class="color-wrap">
                     <div class="color-indicator color-black"></div>

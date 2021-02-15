@@ -62,7 +62,7 @@
         </div>
         <div class="signature">
             <p>
-                Coded by
+                Made by
                 <a target="blank" href="https://github.com/g-czajk">G.Cz.</a>,
                 2021
             </p>
