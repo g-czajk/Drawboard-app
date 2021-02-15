@@ -1,4 +1,3 @@
 module.exports = {
-    publicPath:
-        process.env.NODE_ENV === "production" ? "/drawboardtouch/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/Drawboard-app/" : "/",
 };
