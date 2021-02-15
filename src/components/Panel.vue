@@ -220,7 +220,7 @@ export default {
     }
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1800px) {
     .panel {
         left: 5%;
     }
