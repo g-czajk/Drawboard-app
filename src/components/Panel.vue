@@ -60,14 +60,14 @@
             <div class="erase-canvas">
                 <i
                     class="fas fa-eraser"
-                    title="Wyczyść marker"
+                    title="Erase marker"
                     @click="eraseCanvas"
                 ></i>
             </div>
             <div class="restart">
                 <i
                     class="fas fa-sync-alt"
-                    title="Zrestartuj tablicę"
+                    title="Restart board"
                     @click="restartApp"
                 ></i>
             </div>
